@@ -8,7 +8,7 @@ url: "https://madeline-past.github.io/"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "程果" # 填写作者信息：名字
+  name: "m4deline" # 填写作者信息：名字
   email: 1265934866@qq.com # 填写作者信息：邮箱
   bio: "hi" # 填写作者信息：博客描述
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "程果" # 你的名字
+      author: "m4deline" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
