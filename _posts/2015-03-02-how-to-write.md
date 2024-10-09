@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
+title: hi
 date: 2024-10-09
 categories: blog
 tags: [标签一,标签二]
