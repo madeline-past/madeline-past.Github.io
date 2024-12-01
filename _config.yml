@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://madeline-past.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: m4deline's blog
+subtitle: None
+description: "个人博客"
+keywords: blog
+timezone: Asia/Chengdu
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2024
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: madeline-past/madeline-past.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Guo Cheng
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: madeline-past
+location: Chengdu, China
+email: marquez307@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -184,10 +184,10 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: madeline-past/blog-comments
+    repo-id: R_kgDONXL7fg
     category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    category-id: DIC_kwDONXL7fs4CkxXy
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
